@@ -352,6 +352,13 @@
             "index": "pypi",
             "version": "==2.6.0"
         },
+        "pylint-django": {
+            "hashes": [
+                "sha256:b8dcb6006ae9fa911810aba3bec047b9410b7d528f89d5aca2506b03c9235a49"
+            ],
+            "index": "pypi",
+            "version": "==2.3.0"
+        },        
         "pyparsing": {
             "hashes": [
                 "sha256:1060635ca5ac864c2b7bc7b05a448df4e32d7d8c65e33cbe1514810d339672a2",
